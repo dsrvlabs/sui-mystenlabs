@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Key","Value"],"struct":["FallbackTransactionKVStore"],"trait":["TransactionKeyValueStore"]};
